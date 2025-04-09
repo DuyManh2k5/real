@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Tru {
+module Truuu {
 }
